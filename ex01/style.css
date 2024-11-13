@@ -1,0 +1,32 @@
+.container_pai{
+    display: flex;
+    width: 100%;
+}
+div{
+    height: 98vw;
+    width: 50%;  
+}
+.esquerda{
+    background-color: black;
+}
+.direita{
+    background-image: url(img/fundo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h1{
+    color: green;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+button{
+    display: block;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    margin: 320px auto;
+    padding: 10px 40px;
+}
