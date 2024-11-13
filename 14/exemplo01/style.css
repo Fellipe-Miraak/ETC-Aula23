@@ -1,0 +1,26 @@
+body{
+    color: #fff;
+    background-color: #ccc;
+}
+
+#logotipo 
+{width: 80px;
+height: 45px;}
+
+#banner
+{width: 100%;}
+
+.fundorosa
+{background-color: #e9967a;}
+
+.titulo
+{color: #e9967a;
+font-size: 40px;
+text-align: center;}
+
+.p1
+{background-color: #333;
+text-align: justify;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;}
+
